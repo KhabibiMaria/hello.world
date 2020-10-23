@@ -1,27 +1,8 @@
-@font-face {
-font-family: 'Caveat';
-src: url('/fonts/caveat-regulator-webfont.woff') format ('woff');
-src: url('/fonts/caveat-regulator-webfont.woff2') format ('woff2');
-font-weight: normal;
-font-style: normal;
-}
-
-@font-face {
-font-family: 'Caveat';
-src: url('fonts/caveat-bold-webfont.woff') format ('woff');
-src: url('fonts/caveat-bold-webfront.woff2') format ('woff2');
-font-weight: bold;
-font-style: normal;
-}
-
-p {
-font-family: Caveat;
-}
 
 body {
   margin: 0;
   min-width: 960px;
- font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+ font-family: "Caveat", "Arial", sans-serif;
   font-size: 16px;
   line-height: 32px;
   color: #000000;
